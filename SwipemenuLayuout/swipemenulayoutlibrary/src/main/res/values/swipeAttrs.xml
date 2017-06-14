@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwipeMenuLayout">
+        <attr name="leftMenuView" format="reference"/>
+        <attr name="rightMenuView" format="reference"/>
+        <attr name="contentMenuView" format="reference"/>
+        <attr name="canLeftMenu" format="boolean"/>
+        <attr name="canRightMenu" format="boolean"/>
+        <attr name="fraction" format="float"/>
+    </declare-styleable>
+
+
+
+</resources>
